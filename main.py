@@ -4,7 +4,7 @@ Entry text (97 characters, 18 words (limit 20 words), gate max 140). Written to 
 """
 import os
 
-ENTRY = """Boss, my car died, the bus never came, and my phone died too — I'm on my way, I swear."""
+ENTRY = """Boss, my car died, the bus never came, and my phone died — I'm on my way, I swear."""
 
 def main():
     out_dir = os.environ.get("OUTPUT_DIR", "/output")
