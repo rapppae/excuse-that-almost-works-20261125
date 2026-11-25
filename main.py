@@ -1,6 +1,6 @@
 """Entry for make.fun bounty: The Excuse That Almost Works
 Slug: u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5
-Entry text (97 characters, 18 words (limit 20 words), gate max 140). Written to /output/entry.txt with no trailing newline.
+Entry text (82 characters, 19 words (limit 20 words), gate max 140). Written to /output/entry.txt with no trailing newline.
 """
 import os
 
