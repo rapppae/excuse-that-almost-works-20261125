@@ -4,7 +4,7 @@
 
 [View the bounty on make.fun](https://make.fun/bounty/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5)
 
-> Boss, my car died, the bus never came, and my phone died too — I'm running, I swear.
+> Boss, my car died, the bus never came, and my phone died too — I'm on my way, I swear.
 
 ## Run
 
